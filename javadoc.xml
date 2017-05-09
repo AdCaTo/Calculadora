@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="C:\Users\adria\workspace\Calculadora\doc" doctitle="Part Práctica ED _ Adrian Castaño Torres" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.8" sourcefiles="C:\Users\adria\workspace\Calculadora\src\Calculadora.java" sourcepath="C:\Users\adria\workspace\Calculadora\src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
